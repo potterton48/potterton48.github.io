@@ -1,1 +1,2 @@
-# potterton48.github.io
+# Andrew Potterton
+## PhD Student in Computational Drug Discovery
